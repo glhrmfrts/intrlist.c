@@ -135,6 +135,7 @@ static inline list_t* list_sort_(list_t* list, list_comp_func_t compfunc, bool r
 
 #ifdef intrlist_unittest
 
+#include <stdarg.h>
 #include "test_common.h"
 
 typedef struct data {

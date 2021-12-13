@@ -48,3 +48,4 @@ static int g_test_assertions;
     } else {                                                                                                           \
         return 0;                                                                                                      \
     }
+
